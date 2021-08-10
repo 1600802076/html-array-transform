@@ -17,6 +17,7 @@ export default {
   watch: {
   },
   created () {
+    console.log('初始化好了')
   },
   mounted () {
   },
