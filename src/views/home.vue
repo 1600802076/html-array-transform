@@ -18,6 +18,7 @@ export default {
   },
   created () {
     console.log('初始化好了')
+    console.log(123)
   },
   mounted () {
   },
